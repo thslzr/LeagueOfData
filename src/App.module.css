@@ -1,0 +1,10 @@
+.backgroundImage {
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  filter: blur(7px);
+  box-shadow: inset 0px 0px 200px 250px #000000;
+  transform: scale(1.1);
+}
